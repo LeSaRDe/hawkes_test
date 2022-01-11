@@ -1,1 +1,1 @@
-hawkes_test
+Tests on Hawkes processes
